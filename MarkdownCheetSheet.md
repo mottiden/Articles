@@ -21,9 +21,9 @@ This is another [link][hack].
 1. An ordered list
 
 This is a list with checkboxes:
-* [] to do
+* [ ] to do
 * [X] done
-* [] to do
+* [ ] to do
 
 
 ## Horizontal rule
