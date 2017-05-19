@@ -51,8 +51,8 @@ Delete or add lines:
 
 ```js
 let first = 1;
-- let second = 3;
-+ let second = 2;
+-let second = 3;
++let second = 2;
 ```
 
 ## Tables
