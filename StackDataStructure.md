@@ -17,15 +17,20 @@ class Stack {
 	print() {console.log(this.elements.toString());};
 }
 
+
 const pileOfBooks = new Stack();
 ```
 
-## Pushing elements
+## Stack methods
 
-## Popping elements
 
-## Peek
+* `push()` :
+* `pop()`  :
 
-## Other functions
+
+## Stacks in practice
+
+
+
 
  
