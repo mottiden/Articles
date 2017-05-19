@@ -28,7 +28,8 @@ This is a list with checkboxes:
 
 ## Horizontal rule
 
-Some rule 
+Below you can see an horizontal rule 
+
 ---
 
 ## Block quotes
